@@ -9,7 +9,8 @@ code execution vulnerability:
 
 1.whoami
 
-<img width="482" alt="39436c11073b84211cdeced7e58e603" src="https://github.com/Sadw11v/AI-vuln/assets/130206491/8fde1dc2-de24-4c82-8c16-fe4a5b5330e8">
+![图片](https://github.com/Sadw11v/AI-vuln/assets/130206491/58957b9a-dd49-4994-b5e2-fb2b16532d65)
+
 
 
 2.read "/etc/passwd"
