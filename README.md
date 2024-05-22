@@ -9,8 +9,8 @@ code execution vulnerability:
 
 1.read "/etc/passwd"
 
-<img width="500" alt="1716343067319" src="https://github.com/Sadw11v/AI-vuln/assets/130206491/04f841df-59a3-49db-9af4-c37e4f98c965">
-<img width="471" alt="1716343291311" src="https://github.com/Sadw11v/AI-vuln/assets/130206491/6e441e62-b977-48d0-bfc7-f14bf77c98ad">
+![图片](https://github.com/Sadw11v/AI-vuln/assets/130206491/c0d74f93-6599-4a63-aef7-a561db3b3439)
+
 
 2.read "etc/profile"
 
@@ -19,11 +19,13 @@ code execution vulnerability:
 
 2.execute "ls -l"
 
-<img width="508" alt="1716343331300" src="https://github.com/Sadw11v/AI-vuln/assets/130206491/c2f1fba2-86e0-4a22-97ea-1bb1bacf9f65">
+<img width="486" alt="0dea6f2e7fc7daa0b5457376ea2081b" src="https://github.com/Sadw11v/AI-vuln/assets/130206491/ab8beb3d-059e-49c7-aace-20f23c25d7ab">
+
 
 3.read hostname
 
-![图片](https://github.com/Sadw11v/AI-vuln/assets/130206491/bcd61076-9f5b-4ae5-ab1a-759b91d6c7c7)
+![Uploading 44c7fb588b6c6d65ee25f71829e7d83.png…]()
+
 
 4.echo $PATH
 
